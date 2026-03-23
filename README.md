@@ -27,10 +27,10 @@ This project analyzes oil field production data to evaluate well performance and
 ![Gas Production](images/gas_production.png)
 
 ### GOR and WOR Trends
-![GOR WOR](images/gor_wor.png)
+![GOR and WOR Trends](images/gor_wor.png)
 
 ### Oil vs Water Relationship
-![Oil vs Water](images/oil_vs_water.png)
+![Oil vs Water Relationship](images/oil_vs_water.png)
 
 ## Key Insights
 - Declining production trends observed in some wells  
