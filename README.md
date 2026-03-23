@@ -25,14 +25,17 @@ This project analyzes oil field production data to evaluate well performance and
 
 ### Gas Production by Well
 ![Gas Production](images/gas_production.png)
+
 Gas production trends vary across wells. Declining profiles may indicate reservoir depletion or reduced pressure support.
 
 ### GOR and WOR Trends
 ![GOR and WOR Trends](images/gor_wor.png)
+
 Increasing WOR suggests possible water breakthrough, while GOR trends provide insight into reservoir fluid behaviour and drive mechanisms.
 
 ### Oil vs Water Relationship
 ![Oil vs Water Relationship](images/oil_vs_water.png)
+
 A strong relationship between oil and water production may indicate increasing water cut, which can reduce production efficiency and increase operating costs.
 
 ## Key Insights
